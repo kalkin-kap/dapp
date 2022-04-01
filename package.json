@@ -31,7 +31,7 @@
     "truffle-privatekey-provider": "^1.5.0",
     "web3": "1.0.0-beta.55"
   },
-  "homepage": "http://kalkin_kap.github.io/deploy",
+  "homepage": "http://kalkin-kap.github.io/deploy",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
